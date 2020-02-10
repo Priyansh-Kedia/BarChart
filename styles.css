@@ -1,0 +1,12 @@
+rect {
+  fill: steelblue;
+}
+rect:hover {
+  fill: red;
+}
+text {
+  font-size: 1.4em;
+}
+* {
+  transition: all 0.3s ease forwards;
+}
